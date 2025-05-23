@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2025-04-08/index.html",
+      "/posts/2025-02-25/index.html",
+      "/posts/2025-02-03/index.html",
+      "/research/2025-06-03/index.html",
+      "/research/2025-02-26/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/2025-04-08/index.html",
+      "/posts/2025-02-25/index.html",
+      "/posts/2025-02-03/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/2025-06-03/index.html",
+      "/research/2025-02-26/index.html"
+    ]
+  }
+]
